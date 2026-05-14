@@ -66,12 +66,6 @@ const chaitanya = {
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=Chaitanya-963&show_icons=true&theme=tokyonight&border_radius=12&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chaitanya-963&layout=compact&theme=tokyonight&border_radius=12&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" height="165" />
-
-</div>
 
 <div align="center">
 
