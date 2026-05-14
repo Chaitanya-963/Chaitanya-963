@@ -59,7 +59,7 @@ const chaitanya = {
 - 🔭 Building production-level **React** component libraries & full-stack apps
 - 🌱 Sharpening **TypeScript** skills + practising **DSA in Java**
 - 💼 Actively seeking roles in **MERN / Frontend / Java Development**
-- ✍️ Writing dev blogs at [learn-with-chaitanya.hashnode.dev](https://learn-with-chaitanya.hashnode.dev/)
+- ✍️ Writing dev blogs at [chaitanyamehetre.dev](https://hashnode.com/@ChaitanyaMehetre)
 - 🎯 Open to **Hybrid / Remote / On-site** roles across Pune, Mumbai, Bangalore & Hyderabad
 
 ---
