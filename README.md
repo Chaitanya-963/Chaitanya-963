@@ -1,59 +1,131 @@
-![banner](./assets/banner.png)
+<div align="center">
 
-<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="20px"  alt="hi">&nbsp;, I'm Chaitanya Mehetre</h1>
-<h3 align="center"> <img src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif?cid=790b76115jietks4epx48hit5zsx8e3qc8qq6nm8qdajc4up&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="40px" alt="codingImg"  align="center" >&nbsp;A passionate developer from India</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Chaitanya%20Mehetre&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20UI%2FUX%20Designer%20%7C%20Java%20Dev&descSize=18&descAlignY=65&animation=fadeIn" width="100%"/>
 
-&nbsp;
+</div>
 
-### <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="20px"  alt="hi">&nbsp; Hey there....
+<div align="center">
 
-👨🏼‍💻 Computer Science Student
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=a78bfa&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Chaitanya+%F0%9F%91%8B;MERN+Stack+Developer;UI%2FUX+Designer+%26+Frontend+Dev;Java+%2B+Spring+Boot+Developer;Building+cool+stuff+%2C+one+commit+at+a+time+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-⚡ **UI/UX Designer & Developer**
-
-💭 Thoughts about Engineering at <a href="https://learn-with-chaitanya.hashnode.dev/" target="_blank">ChaitanyaMehetre.blogs</a>
-
-🔭 Currently learning React js
-
-🤝 Happy to collaborate and build Awesome stuff.
-
-&nbsp;
-
-<!-- Social Media Links -->
-
-### ![Social](https://img.icons8.com/?size=22&id=Wr2FqAb3M8nX&format=png&color=000000) Reach Out :
-
-[![Instagram](https://img.icons8.com/?size=40&id=32323&format=png&color=000000)](https://instagram.com/https://www.instagram.com/chaitanya_mehetre09)
-[![LinkedIn](https://img.icons8.com/?size=40&id=xuvGCOXi8Wyg&format=png&color=000000)](https://linkedin.com/in/https://www.linkedin.com/in/chaitanya-mehetre)
-[![X](https://img.icons8.com/?size=40&id=phOKFKYpe00C&format=png&color=000000)](https://x.com/https://x.com/Chaitanya_CM_)
-[![email](https://img.icons8.com/?size=40&id=qyRpAggnV0zH&format=png&color=000000)](mailto:chaitanyamehetre0301@gmail.com)
+</div>
 
 ---
 
-&nbsp;
+## 🙋‍♂️ About Me
 
-<!-- Technologies that I'm working with -->
+```javascript
+const chaitanya = {
+  name: "Chaitanya Mehetre",
+  role: ["Full Stack Developer", "UI/UX Designer", "Frontend Developer", "Java Developer"],
+  education: "B.E. Computer Science @ MMIT Pune (2025)",
+  location: "Pune, Maharashtra 🇮🇳",
+  currentlyLearning: ["TypeScript", "System Design", "DSA"],
+  lookingFor: "Full-time opportunities in MERN / Java / Frontend",
+  funFact: "I debug with console.log() and I'm not ashamed 😅",
+  hobbies: ["Building side projects", "Writing tech blogs", "UI experiments"],
+};
+```
 
-### <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="22px" align="center"/> &nbsp; Tech Stack:
+---
 
-![C](https://img.icons8.com/?size=40&id=shQTXiDQiQVR&format=png&color=000000)
-![C++](https://img.icons8.com/?size=40&id=TpULddJc4gTh&format=png&color=000000)
-![Java](https://img.icons8.com/?size=40&id=lTKW3iI3wIT0&format=png&color=000000)
-![HTML5](https://img.icons8.com/?size=40&id=20909&format=png&color=000000)
-![CSS3](https://img.icons8.com/?size=40&id=7gdY5qNXaKC0&format=png&color=000000)
-![JavaScript](https://img.icons8.com/?size=40&id=Nkym0Ujb8VGI&format=png&color=000000)
-![Figma](https://img.icons8.com/?size=40&id=zfHRZ6i1Wg0U&format=png&color=000000)
+## 🛠️ Tech Stack
+
+### 💻 Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,java,c,cpp&theme=dark" />
+</p>
+
+### ⚛️ Frontend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=figma&theme=dark" />
+</p>
+
+### 🔧 Backend & Database
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,mongodb,mysql&theme=dark" />
+</p>
+
+### 🧰 Tools & Platforms
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,postman&theme=dark" />
+</p>
 
 ---
 
-&nbsp;
+## 🚀 What I'm Up To
 
-<!-- My GitHub stats -->
-
-### ![githubStats](https://img.icons8.com/?size=22&id=102554&format=png&color=000000) GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=Chaitanya-963&theme=transparent&border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Chaitanya-963&theme=transparent&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Chaitanya-963&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+- 🔭 Building production-level **React** component libraries & full-stack apps
+- 🌱 Sharpening **TypeScript** skills + practising **DSA in Java**
+- 💼 Actively seeking roles in **MERN / Frontend / Java Development**
+- ✍️ Writing dev blogs at [learn-with-chaitanya.hashnode.dev](https://learn-with-chaitanya.hashnode.dev/)
+- 🎯 Open to **Hybrid / Remote / On-site** roles across Pune, Mumbai, Bangalore & Hyderabad
 
 ---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=Chaitanya-963&show_icons=true&theme=tokyonight&border_radius=12&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chaitanya-963&layout=compact&theme=tokyonight&border_radius=12&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" height="165" />
+
+</div>
+
+<div align="center">
+
+  <img src="https://streak-stats.demolab.com?user=Chaitanya-963&theme=tokyonight&border_radius=12&hide_border=true&background=0d1117&ring=a78bfa&fire=f472b6&currStreakLabel=a78bfa&sideNums=c9d1d9&sideLabels=c9d1d9&dates=6b7280" />
+
+</div>
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Chaitanya-963&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&rank=SECRET,SSS,SS,S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Chaitanya-963/Chaitanya-963/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Chaitanya-963/Chaitanya-963/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Chaitanya-963/Chaitanya-963/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chaitanya-mehetre)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/chaitanya_mehetre09)
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/Chaitanya_CM_)
+[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://learn-with-chaitanya.hashnode.dev/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chaitanyamehetre0301@gmail.com)
+
+</div>
+
+---
+
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+
+</div>
+
+---
+
